@@ -1,4 +1,4 @@
-This repository contains the simulations required to replicate the figures in the paper "Chebyshev Approximation and Composition of Functions for Quantum-Inspired Numerical Analysis". All simulations are supported by SeeMPS (https://github.com/juanjosegarciaripoll/seemps2), an open-source Python library designed to facilitate prototyping and experimentation with MPS/QTT quantum-inspired algorithms.
+This repository contains the simulations required to replicate the figures in the paper "Chebyshev Approximation and Composition of Functions in Matrix Product States for Quantum-Inspired Numerical Analysis". All simulations are supported by SeeMPS (https://github.com/juanjosegarciaripoll/seemps2), an open-source Python library designed to facilitate prototyping and experimentation with MPS/QTT quantum-inspired algorithms.
 
 ## Structure
 
